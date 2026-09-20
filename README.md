@@ -41,7 +41,6 @@ The project combines Web Development, Data Preprocessing, Feature Engineering, D
 - Scikit-learn
 - Flask
 - HTML5
-- CSS3
 - Tailwind CSS
 - JavaScript
 - Chart.js
