@@ -184,11 +184,10 @@ Student-Performance-Prediction/
 ├── requirements.txt
 ├── student_data.csv
 ├── train_model.py
+├── model.pkl
 ├── app.py
-│
-└── templates/
-    ├── index.html
-    └── result.html
+├── index.html
+└── result.html
 
 ## 📂 File Description
 
